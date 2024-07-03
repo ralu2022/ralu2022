@@ -1,16 +1,27 @@
-## Hi there 👋
+Junior Developer & Master Data Specialist | Fresh new developer with eagerness to learn
 
-<!--
-**ralu2022/ralu2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✔️ Back-end
+• Java
+• Spring Boot
+• SQL
+• C++
 
-Here are some ideas to get you started:
+✔️ Front-end
+• JavaScript
+• Bootstrap 
+• HTML
+• CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔️ Databases
+• PostgreSQL
+• MySQL
+• Microsoft Server
+
+✔️ Others
+• Linux
+• Android Studio
+• GitHub
+• Postman
+• Slack / Discord
+• UML design
+• LEDES files / E-Billing
