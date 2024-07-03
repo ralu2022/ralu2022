@@ -1,24 +1,24 @@
 Junior Developer - fresh new developer with eagerness to learn
 
-✔️ Back-end
-• Java
+✔️ Back-end 
+: Java
 • Spring Boot
 • SQL
 • C++
 
-✔️ Front-end
-• JavaScript
+✔️ Front-end:
+: JavaScript
 • Bootstrap 
 • HTML
 • CSS
 
 ✔️ Databases
-• PostgreSQL
+: PostgreSQL
 • MySQL
 • Microsoft Server
 
 ✔️ Others
-• Linux
+: Linux
 • Android Studio
 • GitHub
 • Postman
