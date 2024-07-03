@@ -1,4 +1,4 @@
-Junior Developer & Master Data Specialist 
+Junior Developer - fresh new developer with eagerness to learn
 
 ✔️ Back-end
 • Java
