@@ -17,9 +17,13 @@ Junior Developer - fresh new developer with eagerness to learn
 • MySQL
 • Microsoft Server
 
+✔️ IDE
+: Visual Studio 
+• IntelliJ IDEA
+• Android Studio
+
 ✔️ Others
 : Linux
-• Android Studio
 • GitHub
 • Postman
 • Slack / Discord
