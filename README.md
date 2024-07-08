@@ -13,7 +13,7 @@
 ✔️ Databases
 : PostgreSQL
 • MySQL
-• Microsoft Server (SQL Server Management Studio 20)
+• SQL Server Management Studio 
 
 ✔️ IDE
 : Visual Studio 
@@ -26,11 +26,11 @@
 • Postman
 • Slack 
 • Discord
-• UML design (SmartDraw, draw.io)
+• UML design
 • LEDES files 
 • E-Billing
 
 ✔️ Concepts
 : data structures
 • genetic algorithms 
-• nature based algorithms (Grey Wolf Optimizer|Swarm Particle Optimization)
+• nature based algorithms
