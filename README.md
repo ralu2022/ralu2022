@@ -34,3 +34,4 @@
 : data structures
 • genetic algorithms 
 • nature based algorithms
+• OOP 
