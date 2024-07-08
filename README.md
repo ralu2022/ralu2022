@@ -1,6 +1,6 @@
 ✔️ Back-end 
-: Java
-• Spring Boot
+: Java 17
+• Java Spring Boot
 • SQL
 • C++
 
