@@ -27,8 +27,6 @@
 • Slack 
 • Discord
 • UML design
-
-
 • LEDES files 
 • E-Billing
 
